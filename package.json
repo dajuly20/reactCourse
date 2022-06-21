@@ -1,0 +1,22 @@
+{
+  "name": "indecision-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dajuly20/reactCourse.git"
+  },
+  "author": "Julian Max Wiche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dajuly20/reactCourse/issues"
+  },
+  "homepage": "https://github.com/dajuly20/reactCourse#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.24.1"
+  }
+}
