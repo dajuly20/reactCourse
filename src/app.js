@@ -1,6 +1,6 @@
 console.log("App.js is running");
 
-var template = <p>This is JSX from the NEW new app.js!</p>
+var template = <h1>Mein Näm isch Julian</h1>
 var appRoot = document.getElementById("app");
 
 ReactDOM.render(template, appRoot);
